@@ -2,6 +2,6 @@
 
 live - https://madbence-blog.herokuapp.com/
 
-config your own mongoose connection before that
+config your own mongoose connection
 
 npm i, npm start @ :4040
