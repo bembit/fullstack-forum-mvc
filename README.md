@@ -1,7 +1,18 @@
-# nodejs-blog
+# 2017 Fullstack REST site.
 
-live - https://madbence-blog.herokuapp.com/
+~~Live demo - https://dashboard.heroku.com/apps/madbence-blog~~
 
-config your own mongoose connection
+My intro to Fullstack web dev from May 2017 with insane sentimental value.
 
-npm i, npm start @ :4040
+NodeJS Express EJS and Mongodb.
+
+- Authentication, user authorization/roles
+- API and routing
+- CRUD with Mongodb
+- Image uploads
+
+![1.png](1.png)
+
+![2.png](2.png)
+
+Archived, depcrecated, Heroku free dynos gone.
