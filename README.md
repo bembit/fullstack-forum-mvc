@@ -1,7 +1,20 @@
-# nodejs-blog
+# Fullstack forum / blog site.
 
-live - https://madbence-blog.herokuapp.com/
+Part of 2016-17 studies, building a few variations of this site with:
+- Express
+- NodeJS
+- Mongodb
 
-config your own mongoose connection
+### Features
+- Authentication, user authorization/roles
+- API and routing
+- CRUD with Mongodb
+- Image uploads
+- User profiles
+- Comments
 
-npm i, npm start @ :4040
+![1.png](1.png)
+
+![2.png](2.png)
+
+Archived, legacy.
