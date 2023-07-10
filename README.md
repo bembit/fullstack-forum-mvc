@@ -4,6 +4,8 @@
 
 My intro to Fullstack web dev from May 2017 with insane sentimental value.
 
+Some salvaged variations in dump https://github.com/Bembit/dump-fullstack
+
 NodeJS Express EJS and Mongodb.
 
 - Authentication, user authorization/roles
