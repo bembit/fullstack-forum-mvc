@@ -1,8 +1,8 @@
-# 2017 Fullstack REST site.
+# Fullstack REST site.
 
 ~~Live demo - https://dashboard.heroku.com/apps/madbence-blog~~
 
-My intro to Fullstack web dev from May 2017 with insane sentimental value.
+My intro to Fullstack web dev with insane sentimental value.
 
 Some salvaged variations in dump https://github.com/Bembit/dump-fullstack
 
