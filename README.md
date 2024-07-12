@@ -1,6 +1,6 @@
-# Fullstack forum / blog site.
+# Fullstack forum / blog.
 
-Part of 2016-17 studies, building a few variations of this site with:
+Part of 2016-17 nodejs eco studies, building a few variations of this site with:
 - Express
 - NodeJS
 - Mongodb
